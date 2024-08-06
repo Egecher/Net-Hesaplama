@@ -1,2 +1,3 @@
 # Net-Hesaplama
-This project has been programmed by Egemen Uysal to calculate the net
+
+C++ ile geliştirmiş olduğum net hesaplama projesi.
